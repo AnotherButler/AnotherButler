@@ -6,4 +6,4 @@ In Jane Austen’s Persuasion, Anne Elliott says, "My idea of good company, Mr E
 
 ## More about me
 
-I am a technical writer who loves to learn. Currently, I focus on writing about software for use in the Internet of Things (IoT). I'm always interested in exchanging tech writing tips, discussing documentation processes and learning about new industry trends.
+I am a technical writer who loves to learn. Currently, I lead a team of international writers and focus on documentation strategy for software. I'm always interested in exchanging tech writing tips, discussing documentation processes and learning about new industry trends.
